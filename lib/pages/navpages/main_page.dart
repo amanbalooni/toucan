@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:toucan/main.dart';
 import 'package:toucan/pages/navpages/bar_item.dart';
-import 'package:toucan/pages/navpages/home_page.dart';
+import 'package:toucan/pages/home_page.dart';
 import 'package:toucan/pages/navpages/search_page.dart';
 
 import 'my_page.dart';

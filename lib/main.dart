@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:toucan/pages/detail_page.dart';
 import 'package:toucan/pages/navpages/main_page.dart';
 import 'package:toucan/pages/welcome_page.dart';
 
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MainPage(),
+      home: const DetailPage(),
     );
   }
 }
